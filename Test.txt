@@ -1,0 +1,44 @@
+Test
+
+http://localhost:55247/api/v1/persona/delete/1
+
+http://localhost:55247/api/v1/persona
+
+http://localhost:55247/api/v1/persona/insertar/
+
+
+http://localhost:55247/api/v1/persona/delete/1
+
+{
+        "IdPersona": "4",
+        "Folio": "FOLio",
+        "Salario":556.586,
+       "Asignatura":"LOP",
+        "Persona": {
+            "Nombre": "Gua",
+            "Id":3,
+            "Apellidos":"Martinez",
+            "FechaNacimiento":"1999-12-05",
+            "Sexo": 1,
+            "Status":1  
+        }
+    }
+
+
+http://localhost:55247/api/v1/persona/actualizar/
+
+{
+        "IdPersona": "4",
+        "Folio": "Hola",
+        "Salario":556.586,
+       "Asignatura":"Prro",
+        "Persona": {
+            "Nombre": "Leon",
+            "Id":3,
+            "Apellidos":"A9",
+            "FechaNacimiento":"1998-12-05",
+            "Sexo": 1,
+            "Status":1  
+        }
+    }
+

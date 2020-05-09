@@ -1,0 +1,93 @@
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\PersonaApi2.dll.config
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\PersonaApi2.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\PersonaApi2.pdb
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\Dapper.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\Microsoft.Web.Infrastructure.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\MySql.Data.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\Newtonsoft.Json.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Net.Http.Formatting.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Cors.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Helpers.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Http.Cors.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Http.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Http.WebHost.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Mvc.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Razor.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.Deployment.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.Razor.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\Dapper.pdb
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\Dapper.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Net.Http.Formatting.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Http.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Http.Cors.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Razor.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.Deployment.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.Razor.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Helpers.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Mvc.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\Newtonsoft.Json.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\System.Web.Http.WebHost.xml
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\es\System.Net.Http.Formatting.resources.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\es\System.Web.Http.resources.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\es\System.Web.Razor.resources.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\es\System.Web.Webpages.resources.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\es\System.Web.Webpages.Deployment.resources.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\es\System.Web.Webpages.Razor.resources.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\es\System.Web.Helpers.resources.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\es\System.Web.Mvc.resources.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\bin\es\System.Web.Http.WebHost.resources.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\obj\Debug\PersonaApi2.csprojResolveAssemblyReference.cache
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\obj\Debug\PersonaApi2.csproj.CoreCompileInputs.cache
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\obj\Debug\PersonaApi2.dll
+R:\Cuarto Semestre ISSC 411\Android\Parcial2\PersonaApi2\PersonaApi2\obj\Debug\PersonaApi2.pdb
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\PersonaApi2.dll.config
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\PersonaApi2.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\PersonaApi2.pdb
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\Dapper.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\Microsoft.Web.Infrastructure.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\MySql.Data.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\Newtonsoft.Json.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Net.Http.Formatting.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Cors.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Helpers.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Http.Cors.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Http.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Http.WebHost.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Mvc.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Razor.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.Deployment.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.Razor.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\Dapper.pdb
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\Dapper.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Net.Http.Formatting.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Http.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Http.Cors.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Razor.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.Deployment.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Webpages.Razor.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Helpers.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Mvc.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\Newtonsoft.Json.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\System.Web.Http.WebHost.xml
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\es\System.Net.Http.Formatting.resources.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\es\System.Web.Http.resources.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\es\System.Web.Razor.resources.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\es\System.Web.Webpages.resources.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\es\System.Web.Helpers.resources.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\es\System.Web.Mvc.resources.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\bin\es\System.Web.Http.WebHost.resources.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\obj\Debug\PersonaApi2.csprojAssemblyReference.cache
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\obj\Debug\PersonaApi2.csproj.CoreCompileInputs.cache
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\obj\Debug\PersonaApi2.csproj.CopyComplete
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\obj\Debug\PersonaApi2.dll
+D:\DescargasDeChrome\PersonaApi2 (1)\PersonaApi2\PersonaApi2\obj\Debug\PersonaApi2.pdb
